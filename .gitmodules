@@ -1,0 +1,9 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Pacarius/TRAMS_Server
+[submodule "App"]
+	path = App
+	url = https://github.com/Pacarius/TRAMS_App
+[submodule "UWB"]
+	path = UWB
+	url = https://github.com/Pacarius/TRAMS_UWB
